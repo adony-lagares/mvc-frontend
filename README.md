@@ -1,5 +1,5 @@
 # mvc-frontend
-<p align="center"><img src="http://img.shields.io/static/v1?label=PROJECT%20STATUS&message=IN%20DEVELOPMENT&color=GREEN&style=for-the-badge"/></p>
+<p align="center"><img src="http://img.shields.io/static/v1?label=PROJECT%20STATUS&message=DONE&color=GREEN&style=for-the-badge"/></p>
 <br>
 <br>
 <h2>This project consists of a .NET contact list using the front-end with ASP.NET MVC.</h2>
